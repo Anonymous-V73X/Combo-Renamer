@@ -2,7 +2,7 @@ import telebot
 import json
 
 # Replace 'YOUR_BOT_TOKEN' with your actual Telegram bot token
-TOKEN = '6709721228:AAGCzFOhtmxr7vlYoBH02gX7ixdw-6RvAAQ'
+TOKEN = '###############################'
 bot = telebot.TeleBot(TOKEN)
 
 # Define states
